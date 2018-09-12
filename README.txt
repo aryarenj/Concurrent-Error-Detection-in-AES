@@ -1,0 +1,1 @@
+To compile the command is "Make". To run the module the command is "Make run". Please see the report for the fields in "in.txt". The additional line in "out.txt" indicates whether a fault has been detected.
